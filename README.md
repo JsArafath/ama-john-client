@@ -1,3 +1,4 @@
+# Installation
 ```bash
 # Clone this repository
 $ git clone https://github.com/JsArafath/ama-john-client.git
